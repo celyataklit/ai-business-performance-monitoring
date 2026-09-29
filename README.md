@@ -1,4 +1,4 @@
-# AI Business Performance Monitoring & Alert System
+# Business Performance Monitoring & Alert System
 
 An end-to-end analytics and automation project designed to automate business performance monitoring, KPI scorekeeping, anomaly detection and manager-facing alerts.
 
