@@ -1,0 +1,16 @@
+AUTOMATED MANAGER SUMMARY | week ending 2026-04-30
+
+- Revenue: 812,447.97 (-1.7% vs prior 7 days)
+- Customers: 690.00 (-3.4% vs prior 7 days)
+- Contribution Margin: 90,675.73 (-26.5% vs prior 7 days)
+- CAC: 278.07 (+5.9% vs prior 7 days)
+
+- Alerts requiring review: 10
+- Priority exceptions:
+  * 2026-04-27 | College Station | Operations | revenue below baseline; CAC above baseline; margin below baseline
+  * 2026-04-29 | College Station | Operations | conversion below baseline; margin below baseline
+  * 2026-04-28 | College Station | Operations | CAC above baseline; margin below baseline
+  * 2026-04-27 | Austin | Marketing | revenue below baseline; conversion below baseline; CAC above baseline; margin below baseline
+  * 2026-04-28 | College Station | Sales | CAC above baseline; margin below baseline
+
+Recommended action: review flagged market/team combinations, validate source data, then investigate pricing, spend, conversion or cost drivers before operational action.
